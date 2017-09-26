@@ -1,9 +1,2 @@
-wanghanqi .
-create.
-good
-game
-<<<<<<< HEAD
-book    1234444444444
-=======
-book    1234444444444
->>>>>>> feature1
+wanghanqi
+
